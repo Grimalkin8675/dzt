@@ -82,8 +82,8 @@
 
 ---
 
-- [ ] 5-1 : Axel debout, rite chelou, robe noire face à son pc avec le logo de Prolog (en grand) sur l'écran, le pc est dans un pentagramme avec des bougies, plan d'ensemble, vu de derrière Axel 3/4
-- [ ] 5-2 : Axel debout, rite chelou, face à son pc avec le visage maquillé, plan rapproché taille, légère contre-plongée, de derrière le pc 3/4
+- [x] 5-1 : Axel debout, rite chelou, robe noire face à son pc avec le logo de Prolog (en grand) sur l'écran, le pc est dans un pentagramme avec des bougies, plan d'ensemble, vu de derrière Axel 3/4
+- [x] 5-2 : Axel debout, rite chelou, face à son pc avec le visage maquillé, plan rapproché taille, légère contre-plongée, de derrière le pc 3/4
 
 ### scène 6 - développeur dinosaure
 
@@ -91,8 +91,8 @@
 
 ---
 
-- [ ] 6-1 : plan 3/4 face, Lucas sur son pc, déguisement vieux (?)
-- [ ] 6-2 : plan 3/4 dos, vm windows 95
+- [x] 6-1 : plan 3/4 face, Lucas sur son pc, déguisement vieux (?)
+- [x] 6-2 : plan 3/4 dos, vm windows 95
 
 ### scène 7 - bas niveau
 
@@ -151,6 +151,6 @@ Antoine et Marianne en survêt' (?)
 
 ### scène 13 - AG paranoïa du pixel
 
-- [ ] 13-1 : plan rapproché AG de face, derrière son pc
-- [ ] 13-2 : champ, gros plan clavier, AG alterne flèche haut/flèche bas, 10s
+- [x] 13-1 : plan rapproché AG de face, derrière son pc
+- [x] 13-2 : champ, gros plan clavier, AG alterne flèche haut/flèche bas, 10s
 - [ ] 13-3 : contre-champ, gros plan écran, le bouton (ou autre) alternativement monte et descend d'1px, 10s
