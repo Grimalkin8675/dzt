@@ -53,7 +53,7 @@ Fascinant.
 
 Travaillant en tandem avec le développeur "front-end", le "designer expérience utilisateur" s'occupe de questions impénétrables aux autre développeurs telles que : "ergonomie" ou "UX".
 
-Ce specimen semble malheureusement être tombé dans un état communément appelé "paranoïa du pixel". Il s'interroge si cet élément devrait être placé ici.  
+Ce specimen semble malheureusement être tombé dans un état communément appelé : "paranoïa du pixel". Il s'interroge si cet élément devrait être placé ici.  
 Ou là.  
 Ou ici.  
 Ou là.
