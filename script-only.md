@@ -44,7 +44,7 @@ Oh ! Voici un groupe de développeurs bien particuliers. Voyez comment ils arriv
 Contrairement aux autres, ils ne profitent pas de leurs pauses.  
 Et surtout, ils repartent en dernier.
 
-Cela les distingue de cette autre sorte de développeur qui, au contraire, profite le plus possible de leur temps libre pour pratiquer du "sport".
+Cela les distingue de cette autre sorte de développeurs qui, au contraire, profitent le plus possible de leur temps libre pour pratiquer du "sport".
 
 Acceptant de faire des tâches que les autres développeurs jugent indignes, le développeur "front-end" est considéré comme un héros par ses pairs. D'ailleurs, regardez : ce développeur vient de trouver un problème dans l'interface client.  
 Si le développeur "front-end" arrive à en trouver l'origine et à le corriger, il aura gagné l'admiration des autres membres du troupeau.
@@ -53,7 +53,7 @@ Fascinant.
 
 Travaillant en tandem avec le développeur "front-end", le "designer expérience utilisateur" s'occupe de questions impénétrables aux autre développeurs telles que : "ergonomie" ou "UX".
 
-Ce specimen semble malheureusement être tombé dans un état communément appelé "paranoïa du pixel". Il s'interroge si ce bouton devrait être placé ici.  
+Ce specimen semble malheureusement être tombé dans un état communément appelé "paranoïa du pixel". Il s'interroge si cet élément devrait être placé ici.  
 Ou là.  
 Ou ici.  
 Ou là.
